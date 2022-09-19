@@ -13,7 +13,7 @@ public class UnitTest1
     public void Test2()
     {
         {
-            Assert.Equal(12, Sum(5, 6));
+            Assert.Equal(12, Sum(6, 6));
         }
     }
 
